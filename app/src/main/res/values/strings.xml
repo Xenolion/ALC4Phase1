@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="app_intro"> Welcome to ALC 4.0  </string>
+    <string name="about_alc"> About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_profile_image">My Profile Image</string>
+    <string name="name">Xenolion (John N Noni)</string>
+    <string name="email">Email: johnnnoni@gmail.com </string>
+    <string name="country">Country: Tanzania </string>
+    <string name="track">Track: Android </string>
+    <string name="phone_number">Phone Number: +255684521543 </string>
+    <string name="slack_user_name">Slack Username: @Xenolion </string>
+</resources>
